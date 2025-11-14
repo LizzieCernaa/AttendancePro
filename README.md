@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# AttendancePro 📱
+AttendancePro 📱
 
 **AsisteDocente** (AttendancePro) es una aplicación móvil nativa para Android que permite a los docentes gestionar la asistencia de estudiantes de forma rápida y eficiente desde sus dispositivos móviles.
 =======
