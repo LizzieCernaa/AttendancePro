@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Name -->
+    <string name="app_name">Teacher Attendance</string>
+
+    <!-- Home Screen -->
+    <string name="home_title">Home</string>
+    <string name="home_welcome">Welcome</string>
+    <string name="home_groups">Groups</string>
+    <string name="home_attendance">Attendance</string>
+    <string name="home_reports">Reports</string>
+    <string name="home_settings">Settings</string>
+
+    <!-- Groups -->
+    <string name="groups_title">My Groups</string>
+    <string name="groups_new">New Group</string>
+    <string name="groups_empty">No groups created</string>
+    <string name="groups_create_hint">Create your first group</string>
+    <string name="group_name">Group Name</string>
+    <string name="group_subject">Subject</string>
+    <string name="group_schedule">Schedule</string>
+    <string name="group_description">Description</string>
+    <string name="group_students">students</string>
+    <string name="group_save">Save Group</string>
+    <string name="group_edit">Edit Group</string>
+    <string name="group_delete">Delete Group</string>
+    <string name="group_delete_confirm">Delete this group?</string>
+    <string name="group_last_attendance">Last attendance</string>
+
+    <!-- Students -->
+    <string name="students_title">Students</string>
+    <string name="students_new">New Student</string>
+    <string name="students_empty">No students in this group</string>
+    <string name="students_add_hint">Add students to group</string>
+    <string name="student_name">Student Name</string>
+    <string name="student_lastname">Last Name</string>
+    <string name="student_code">Code/ID</string>
+    <string name="student_email">Email</string>
+    <string name="student_photo">Photo</string>
+    <string name="student_save">Save Student</string>
+    <string name="student_edit">Edit Student</string>
+    <string name="student_delete">Delete Student</string>
+    <string name="student_delete_confirm">Delete this student?</string>
+
+    <!-- Attendance -->
+    <string name="attendance_title">Take Attendance</string>
+    <string name="attendance_date">Date</string>
+    <string name="attendance_time">Time</string>
+    <string name="attendance_save">Save Attendance</string>
+    <string name="attendance_mark_all_present">Mark All Present</string>
+    <string name="attendance_present">Present</string>
+    <string name="attendance_absent">Absent</string>
+    <string name="attendance_late">Late</string>
+    <string name="attendance_justified">Justified</string>
+    <string name="attendance_saved">Attendance saved successfully</string>
+    <string name="attendance_error">Error saving attendance</string>
+    <string name="attendance_history">Attendance History</string>
+    <string name="attendance_already_taken">Attendance already taken today</string>
+    <string name="attendance_notes">Notes</string>
+
+    <!-- Reports -->
+    <string name="reports_title">Reports</string>
+    <string name="reports_generate">Generate Report</string>
+    <string name="reports_export_pdf">Export PDF</string>
+    <string name="reports_export_excel">Export Excel</string>
+    <string name="reports_share">Share</string>
+    <string name="reports_filter_date">Filter by date</string>
+    <string name="reports_filter_group">Filter by group</string>
+    <string name="reports_filter_student">Filter by student</string>
+    <string name="reports_date_range">Date range</string>
+    <string name="reports_from">From</string>
+    <string name="reports_to">To</string>
+    <string name="reports_percentage">Attendance Percentage</string>
+    <string name="reports_total_present">Total Present</string>
+    <string name="reports_total_absent">Total Absent</string>
+    <string name="reports_total_late">Total Late</string>
+    <string name="reports_total_justified">Total Justified</string>
+    <string name="reports_statistics">Statistics</string>
+
+    <!-- Settings -->
+    <string name="settings_title">Settings</string>
+    <string name="settings_language_section">Language</string>
+    <string name="settings_language">Application language</string>
+    <string name="settings_language_description">Select application language</string>
+    <string name="settings_select_language">Select language</string>
+    <string name="settings_language_spanish">Español</string>
+    <string name="settings_language_english">English</string>
+    <string name="settings_language_portuguese">Português</string>
+    <string name="settings_theme">Theme</string>
+    <string name="settings_theme_light">Light</string>
+    <string name="settings_theme_dark">Dark</string>
+    <string name="settings_theme_system">System</string>
+    <string name="settings_backup">Backup</string>
+    <string name="settings_backup_create">Create backup</string>
+    <string name="settings_backup_restore">Restore backup</string>
+    <string name="settings_about">About</string>
+    <string name="settings_about_section">About</string>
+    <string name="settings_version">Version %s</string>
+    <string name="settings_restart_required">Restart required</string>
+    <string name="settings_restart_message">To apply the language change, the application needs to restart.</string>
+    <string name="restart">Restart</string>
+    <string name="later">Later</string>
+
+    <!-- Languages -->
+    <string name="language_spanish">Spanish</string>
+    <string name="language_english">English</string>
+    <string name="language_portuguese">Portuguese</string>
+
+    <!-- Teacher Profile -->
+    <string name="profile_title">My Profile</string>
+    <string name="profile_photo">Profile photo</string>
+    <string name="profile_name">Name</string>
+    <string name="profile_lastname">Last name</string>
+    <string name="profile_email">Email</string>
+    <string name="profile_phone">Phone</string>
+    <string name="profile_save">Save Profile</string>
+    <string name="profile_take_photo">Take photo</string>
+    <string name="profile_choose_photo">Choose from gallery</string>
+    <string name="profile_remove_photo">Remove photo</string>
+    <string name="profile_photo_options">Photo options</string>
+
+    <!-- Common Actions -->
+    <string name="action_save">Save</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="cancel">Cancel</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_edit">Edit</string>
+    <string name="action_search">Search</string>
+    <string name="action_filter">Filter</string>
+    <string name="action_close">Close</string>
+    <string name="action_ok">OK</string>
+    <string name="action_yes">Yes</string>
+    <string name="action_no">No</string>
+    <string name="action_back">Back</string>
+    <string name="action_next">Next</string>
+    <string name="action_previous">Previous</string>
+    <string name="action_add">Add</string>
+    <string name="action_select">Select</string>
+    <string name="action_select_all">Select all</string>
+
+    <!-- Messages -->
+    <string name="message_required_field">Required field</string>
+    <string name="message_saved_success">Saved successfully</string>
+    <string name="message_deleted_success">Deleted successfully</string>
+    <string name="message_error">Error processing request</string>
+    <string name="message_confirm_delete">Are you sure you want to delete?</string>
+    <string name="message_no_data">No data available</string>
+    <string name="message_loading">Loading...</string>
+    <string name="message_empty_list">Empty list</string>
+    <string name="message_network_error">Connection error</string>
+    <string name="message_language_changed">Language changed successfully</string>
+
+    <!-- Days of the week -->
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="thursday">Thursday</string>
+    <string name="friday">Friday</string>
+    <string name="saturday">Saturday</string>
+    <string name="sunday">Sunday</string>
+
+    <!-- Days abbreviated -->
+    <string name="monday_short">Mon</string>
+    <string name="tuesday_short">Tue</string>
+    <string name="wednesday_short">Wed</string>
+    <string name="thursday_short">Thu</string>
+    <string name="friday_short">Fri</string>
+    <string name="saturday_short">Sat</string>
+    <string name="sunday_short">Sun</string>
+
+    <!-- Months -->
+    <string name="january">January</string>
+    <string name="february">February</string>
+    <string name="march">March</string>
+    <string name="april">April</string>
+    <string name="may">May</string>
+    <string name="june">June</string>
+    <string name="july">July</string>
+    <string name="august">August</string>
+    <string name="september">September</string>
+    <string name="october">October</string>
+    <string name="november">November</string>
+    <string name="december">December</string>
+
+    <!-- Date formats -->
+    <string name="date_format">MM/dd/yyyy</string>
+    <string name="time_format">hh:mm a</string>
+    <string name="datetime_format">MM/dd/yyyy hh:mm a</string>
+
+    <!-- Others -->
+    <string name="required_fields">* Required fields</string>
+    <string name="optional">optional</string>
+    <string name="total">Total</string>
+    <string name="of">of</string>
+</resources>

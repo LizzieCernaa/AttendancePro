@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Nombre de la App -->
+    <string name="app_name">Attendance Pro</string>
+
+    <!-- Pantalla Principal -->
+    <string name="home_title">Inicio</string>
+    <string name="home_welcome">Bienvenido</string>
+    <string name="home_groups">Grupos</string>
+    <string name="home_attendance">Asistencia</string>
+    <string name="home_reports">Reportes</string>
+    <string name="home_settings">Configuración</string>
+
+    <!-- Grupos -->
+    <string name="groups_title">Mis Grupos</string>
+    <string name="groups_new">Nuevo Grupo</string>
+    <string name="groups_empty">No hay grupos creados</string>
+    <string name="groups_create_hint">Crear tu primer grupo</string>
+    <string name="group_name">Nombre del Grupo</string>
+    <string name="group_subject">Materia</string>
+    <string name="group_schedule">Horario</string>
+    <string name="group_description">Descripción</string>
+    <string name="group_students">estudiantes</string>
+    <string name="group_save">Guardar Grupo</string>
+    <string name="group_edit">Editar Grupo</string>
+    <string name="group_delete">Eliminar Grupo</string>
+    <string name="group_delete_confirm">¿Eliminar este grupo?</string>
+    <string name="group_last_attendance">Última asistencia</string>
+
+    <!-- Estudiantes -->
+    <string name="students_title">Estudiantes</string>
+    <string name="students_new">Nuevo Estudiante</string>
+    <string name="students_empty">No hay estudiantes en este grupo</string>
+    <string name="students_add_hint">Agregar estudiantes al grupo</string>
+    <string name="student_name">Nombre del Estudiante</string>
+    <string name="student_lastname">Apellido</string>
+    <string name="student_code">Código/Matrícula</string>
+    <string name="student_email">Email</string>
+    <string name="student_photo">Foto</string>
+    <string name="student_save">Guardar Estudiante</string>
+    <string name="student_edit">Editar Estudiante</string>
+    <string name="student_delete">Eliminar Estudiante</string>
+    <string name="student_delete_confirm">¿Eliminar este estudiante?</string>
+
+    <!-- Asistencia -->
+    <string name="attendance_title">Tomar Asistencia</string>
+    <string name="attendance_date">Fecha</string>
+    <string name="attendance_time">Hora</string>
+    <string name="attendance_save">Guardar Asistencia</string>
+    <string name="attendance_mark_all_present">Marcar Todos Presentes</string>
+    <string name="attendance_present">Presente</string>
+    <string name="attendance_absent">Ausente</string>
+    <string name="attendance_late">Tardanza</string>
+    <string name="attendance_justified">Justificado</string>
+    <string name="attendance_saved">Asistencia guardada correctamente</string>
+    <string name="attendance_error">Error al guardar asistencia</string>
+    <string name="attendance_history">Historial de Asistencia</string>
+    <string name="attendance_already_taken">Ya se tomó asistencia hoy</string>
+    <string name="attendance_notes">Notas</string>
+
+    <!-- Reportes -->
+    <string name="reports_title">Reportes</string>
+    <string name="reports_generate">Generar Reporte</string>
+    <string name="reports_export_pdf">Exportar PDF</string>
+    <string name="reports_export_excel">Exportar Excel</string>
+    <string name="reports_share">Compartir</string>
+    <string name="reports_filter_date">Filtrar por fecha</string>
+    <string name="reports_filter_group">Filtrar por grupo</string>
+    <string name="reports_filter_student">Filtrar por estudiante</string>
+    <string name="reports_date_range">Rango de fechas</string>
+    <string name="reports_from">Desde</string>
+    <string name="reports_to">Hasta</string>
+    <string name="reports_percentage">Porcentaje de Asistencia</string>
+    <string name="reports_total_present">Total Presentes</string>
+    <string name="reports_total_absent">Total Ausentes</string>
+    <string name="reports_total_late">Total Tardanzas</string>
+    <string name="reports_total_justified">Total Justificados</string>
+    <string name="reports_statistics">Estadísticas</string>
+
+    <!-- Configuración -->
+    <string name="settings_title">Configuración</string>
+    <string name="settings_language_section">Idioma</string>
+    <string name="settings_language">Idioma de la aplicación</string>
+    <string name="settings_language_description">Selecciona el idioma de la aplicación</string>
+    <string name="settings_select_language">Seleccionar idioma</string>
+    <string name="settings_language_spanish">Español</string>
+    <string name="settings_language_english">English</string>
+    <string name="settings_language_portuguese">Português</string>
+    <string name="settings_theme">Tema</string>
+    <string name="settings_theme_light">Claro</string>
+    <string name="settings_theme_dark">Oscuro</string>
+    <string name="settings_theme_system">Sistema</string>
+    <string name="settings_backup">Respaldo</string>
+    <string name="settings_backup_create">Crear respaldo</string>
+    <string name="settings_backup_restore">Restaurar respaldo</string>
+    <string name="settings_about">Acerca de</string>
+    <string name="settings_about_section">Acerca de</string>
+    <string name="settings_version">Versión %s</string>
+    <string name="settings_restart_required">Reinicio requerido</string>
+    <string name="settings_restart_message">Para aplicar el cambio de idioma, la aplicación necesita reiniciarse.</string>
+    <string name="restart">Reiniciar</string>
+    <string name="later">Más tarde</string>
+
+    <!-- Idiomas -->
+    <string name="language_spanish">Español</string>
+    <string name="language_english">Inglés</string>
+    <string name="language_portuguese">Portugués</string>
+
+    <!-- Perfil de Docente -->
+    <string name="profile_title">Mi Perfil</string>
+    <string name="profile_photo">Foto de perfil</string>
+    <string name="profile_name">Nombre</string>
+    <string name="profile_lastname">Apellido</string>
+    <string name="profile_email">Correo electrónico</string>
+    <string name="profile_phone">Teléfono</string>
+    <string name="profile_save">Guardar Perfil</string>
+    <string name="profile_take_photo">Tomar foto</string>
+    <string name="profile_choose_photo">Elegir de galería</string>
+    <string name="profile_remove_photo">Quitar foto</string>
+    <string name="profile_photo_options">Opciones de foto</string>
+
+    <!-- Acciones Comunes -->
+    <string name="action_save">Guardar</string>
+    <string name="action_cancel">Cancelar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="action_delete">Eliminar</string>
+    <string name="action_edit">Editar</string>
+    <string name="action_search">Buscar</string>
+    <string name="action_filter">Filtrar</string>
+    <string name="action_close">Cerrar</string>
+    <string name="action_ok">Aceptar</string>
+    <string name="action_yes">Sí</string>
+    <string name="action_no">No</string>
+    <string name="action_back">Volver</string>
+    <string name="action_next">Siguiente</string>
+    <string name="action_previous">Anterior</string>
+    <string name="action_add">Agregar</string>
+    <string name="action_select">Seleccionar</string>
+    <string name="action_select_all">Seleccionar todos</string>
+
+    <!-- Mensajes -->
+    <string name="message_required_field">Campo requerido</string>
+    <string name="message_saved_success">Guardado exitosamente</string>
+    <string name="message_deleted_success">Eliminado exitosamente</string>
+    <string name="message_error">Error al procesar la solicitud</string>
+    <string name="message_confirm_delete">¿Está seguro de eliminar?</string>
+    <string name="message_no_data">No hay datos disponibles</string>
+    <string name="message_loading">Cargando...</string>
+    <string name="message_empty_list">Lista vacía</string>
+    <string name="message_network_error">Error de conexión</string>
+    <string name="message_language_changed">Idioma cambiado correctamente</string>
+
+    <!-- Días de la semana -->
+    <string name="monday">Lunes</string>
+    <string name="tuesday">Martes</string>
+    <string name="wednesday">Miércoles</string>
+    <string name="thursday">Jueves</string>
+    <string name="friday">Viernes</string>
+    <string name="saturday">Sábado</string>
+    <string name="sunday">Domingo</string>
+
+    <!-- Días abreviados -->
+    <string name="monday_short">Lun</string>
+    <string name="tuesday_short">Mar</string>
+    <string name="wednesday_short">Mié</string>
+    <string name="thursday_short">Jue</string>
+    <string name="friday_short">Vie</string>
+    <string name="saturday_short">Sáb</string>
+    <string name="sunday_short">Dom</string>
+
+    <!-- Meses -->
+    <string name="january">Enero</string>
+    <string name="february">Febrero</string>
+    <string name="march">Marzo</string>
+    <string name="april">Abril</string>
+    <string name="may">Mayo</string>
+    <string name="june">Junio</string>
+    <string name="july">Julio</string>
+    <string name="august">Agosto</string>
+    <string name="september">Septiembre</string>
+    <string name="october">Octubre</string>
+    <string name="november">Noviembre</string>
+    <string name="december">Diciembre</string>
+
+    <!-- Formatos de fecha -->
+    <string name="date_format">dd/MM/yyyy</string>
+    <string name="time_format">HH:mm</string>
+    <string name="datetime_format">dd/MM/yyyy HH:mm</string>
+
+    <!-- Otros -->
+    <string name="required_fields">* Campos requeridos</string>
+    <string name="optional">opcional</string>
+    <string name="total">Total</string>
+    <string name="of">de</string>
+</resources>
